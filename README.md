@@ -20,7 +20,8 @@ A few things you can do with Authify:
 - Run in Android
 
 ## <a name="screenshot"></a> 📸 Screenshot
-
+<img src='https://github.com/WyArtStudio/Authify/blob/master/ss%20authify%201.jpeg' width='200'>
+<img src='https://github.com/WyArtStudio/Authify/blob/master/ss%20authify%202.jpeg' width='200'>
 
 ## <a name="libraries"></a> 💡 Libraries
 
