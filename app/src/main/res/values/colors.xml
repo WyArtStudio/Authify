@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorBlack">#FF000000</color>
+    <color name="colorWhite">#FFFFFFFF</color>
+    <color name="colorBaseBlack">#1E1C1C</color>
+    <color name="colorDisabled">#D9D9D9</color>
+    <color name="colorWhiteGray">#ACACAC</color>
+    <color name="colorTextDisabled">#ADA7A7</color>
+    <color name="colorError">#CF2637</color>
+    <color name="colorTextHint">#8E8484</color>
+    <color name="colorChocolate">#584B4B</color>
+    <color name="colorShimmer">#C9C8C8</color>
+</resources>

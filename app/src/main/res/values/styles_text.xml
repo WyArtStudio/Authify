@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AuthifyText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/colorBaseBlack</item>
+    </style>
+
+    <style name="AuthifyText.Regular">
+        <item name="fontFamily">@font/poppins_regular</item>
+        <item name="android:fontFamily">@font/poppins_regular</item>
+    </style>
+
+    <style name="AuthifyText.Regular.10">
+        <item name="android:textSize">@dimen/text_size_10sp</item>
+    </style>
+
+    <style name="AuthifyText.Regular.12">
+        <item name="android:textSize">@dimen/text_size_12sp</item>
+    </style>
+
+    <style name="AuthifyText.Regular.14">
+        <item name="android:textSize">@dimen/text_size_14sp</item>
+    </style>
+
+    <style name="AuthifyText.Regular.16">
+        <item name="android:textSize">@dimen/text_size_16sp</item>
+    </style>
+
+    <style name="AuthifyText.Regular.20">
+        <item name="android:textSize">@dimen/text_size_20sp</item>
+    </style>
+
+    <style name="AuthifyText.Medium">
+        <item name="fontFamily">@font/poppins_medium</item>
+        <item name="android:fontFamily">@font/poppins_medium</item>
+    </style>
+
+    <style name="AuthifyText.Medium.10">
+        <item name="android:textSize">@dimen/text_size_10sp</item>
+    </style>
+
+    <style name="AuthifyText.Medium.12">
+        <item name="android:textSize">@dimen/text_size_12sp</item>
+    </style>
+
+    <style name="AuthifyText.Medium.14">
+        <item name="android:textSize">@dimen/text_size_14sp</item>
+    </style>
+
+    <style name="AuthifyText.Medium.16">
+        <item name="android:textSize">@dimen/text_size_16sp</item>
+    </style>
+
+    <style name="AuthifyText.SemiBold">
+        <item name="fontFamily">@font/poppins_semibold</item>
+        <item name="android:fontFamily">@font/poppins_semibold</item>
+    </style>
+
+    <style name="AuthifyText.SemiBold.10">
+        <item name="android:textSize">@dimen/text_size_10sp</item>
+    </style>
+
+    <style name="AuthifyText.SemiBold.12">
+        <item name="android:textSize">@dimen/text_size_12sp</item>
+    </style>
+
+    <style name="AuthifyText.SemiBold.14">
+        <item name="android:textSize">@dimen/text_size_14sp</item>
+    </style>
+
+    <style name="AuthifyText.SemiBold.16">
+        <item name="android:textSize">@dimen/text_size_14sp</item>
+    </style>
+
+    <style name="AuthifyText.SemiBold.32">
+        <item name="android:textSize">@dimen/text_size_32sp</item>
+    </style>
+
+    <style name="AuthifyText.SemiBold.50">
+        <item name="android:textSize">@dimen/text_size_50sp</item>
+    </style>
+
+    <style name="AuthifyText.Bold">
+        <item name="fontFamily">@font/poppins_semibold</item>
+        <item name="android:fontFamily">@font/poppins_semibold</item>
+    </style>
+
+    <style name="AuthifyText.Bold.10">
+        <item name="android:textSize">@dimen/text_size_10sp</item>
+    </style>
+
+    <style name="AuthifyText.Bold.12">
+        <item name="android:textSize">@dimen/text_size_12sp</item>
+    </style>
+
+    <style name="AuthifyText.Bold.14">
+        <item name="android:textSize">@dimen/text_size_14sp</item>
+    </style>
+
+    <style name="AuthifyText.Bold.16">
+        <item name="android:textSize">@dimen/text_size_14sp</item>
+    </style>
+</resources>

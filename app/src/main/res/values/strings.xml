@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Authify</string>
+    <string name="label_error">Error</string>
+    <string name="label_app_name_description">Authentication Login App</string>
+    <string name="action_retry">Retry</string>
+    <string name="action_login">Login</string>
+    <string name="hint_input_email">Masukan Email Anda</string>
+    <string name="hint_input_password">Masukan Password Anda</string>
+    <string name="label_first_last_name_format">%s %s</string>
+    <string name="label_hello">Hello, </string>
+    <string name="label_new_line">/n</string>
+    <string name="label_space"> </string>
+    <string name="message_error_load">Tidak dapat memuat data</string>
+    <string name="title_logout_confirmation">Konfirmasi Logout</string>
+    <string name="message_logout_confirmation">Anda yakin ingin logout?</string>
+    <string name="title_empty_data">Belum ada data.</string>
+    <string name="message_empty_data">Data masih kosong, coba lagi nanti</string>
+</resources>
